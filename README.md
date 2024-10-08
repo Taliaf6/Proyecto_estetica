@@ -17,11 +17,11 @@ Recomiendo que lo llamen "venv" y que la carpeta se ubique junto al archivo mana
 
 Para descargar el entorno de github, se debe de instalar git accediendo mediante la url https://git-scm.com/downloads.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/static/screenshots/Instalacion_git_1.jpg)
 
 En la imagen podemos acceder a la descargar mediante las 2 opciones subrayadas.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/static/screenshots/Instalacion_git_2.jpg)
 
 Dependiendo nuestro microprocedaor(Creo que ya todos tienen tecnologia de 64bits) seleccionamos la opcion que se adapte a nuestro sistema, dando asi el inicio de la descarga.
 
@@ -29,7 +29,7 @@ Durante la instalacion del git, le dan a next, dejandolo por defecto a cada una 
 
 Una vez terminado la instalacion, para empezar a usar git, se debe de acceder a su terminal bash, mediante el click derecho del mouse, en el le aparecera nuevas opciones relacionados a este.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/static/screenshots/Abrir_git.jpg)
 
 **Ahora en visual studio es posible utilizar la terminal Bash**
 
