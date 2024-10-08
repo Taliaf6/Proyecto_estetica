@@ -1,6 +1,7 @@
 # Proyecto_estetica
 
 ENV-Entorno virtual
+---------------------------------------------------------------------------------------------------------
 
 Al trabajar con github, hay ciertas carpetas que contienen muchicimos archivos. Al momento de clonar o subir estos repositorios, toman una gran cantidad de tiempo para realizarlos, es por eso que se debe de ignorarlos, ya que se pueden descargar rapidamente por separado.
 
@@ -26,13 +27,14 @@ Muchas de las herramientas de interfaz gráfica te ayudarán a hacer esto la pri
 
 ---------------------------------------------------------------------------------------------------------
 Clonando un repositorio existente
-
+---------------------------------------------------------------------------------------------------------
 Puedes clonar un repositorio con git clone [url].
 
 $ git clone https://github.com/J-Joel/Proyecto_estetica
 
 ---------------------------------------------------------------------------------------------------------
 Revisando el Estado de tus Archivos
+---------------------------------------------------------------------------------------------------------
 
 La herramienta principal para determinar qué archivos están en qué estado es el comando git status.
 
@@ -42,6 +44,7 @@ Un archivo puede estar en el estado Rojo: El archivo es reconocido por git pero 
 
 ---------------------------------------------------------------------------------------------------------
 Añadir Archivos Nuevos al repositorio
+---------------------------------------------------------------------------------------------------------
 
 Para prepararlo o hablitar los archivos, se ejecuta el comando: $ git add
 Este comando cumple varios propósitos - lo usas para empezar a añadir archivos nuevos, preparar archivos, y hacer otras cosas como marcar archivos en conflicto por combinación como resueltos
@@ -53,6 +56,7 @@ $ git add . (añade todo los archivos)
 
 ---------------------------------------------------------------------------------------------------------
 Confirmar Cambios
+---------------------------------------------------------------------------------------------------------
 
 Para comfirar los cambios de los archivos añadidos por add, se debe usar el comando
 
@@ -62,7 +66,10 @@ Con el parametro -m indicamos el mensaje que se mostrara al realizar el cambio d
 
 ---------------------------------------------------------------------------------------------------------
 Realizar cambios
+---------------------------------------------------------------------------------------------------------
 
 Usa git push para insertar confirmaciones realizadas en la rama local en un repositorio remoto.
 
 $ git push origin main
+
+---------------------------------------------------------------------------------------------------------
