@@ -23,17 +23,9 @@ En la imagen podemos acceder a la descargar mediante las 2 opciones subrayadas.
 
 ![App Screenshot](/static/screenshots/Instalacion_git_2.jpg)
 
-Dependiendo nuestro microprocedaor(Creo que ya todos tienen tecnologia de 64bits) seleccionamos la opcion que se adapte a nuestro sistema, dando asi el inicio de la descarga.
+Dependiendo nuestro microprocedaor(Creo que ya todos tienen tecnologia de 64bits) seleccionamos la opcion que se adapte a nuestro sistema, dando asi el inicio de la descarga. Durante la instalacion del git, le dan a next, dejandolo por defecto a cada una de las opcion. Una vez terminado la instalacion, para empezar a usar git, se debe de acceder a su terminal bash, mediante el click derecho del mouse, en el le aparecera nuevas opciones relacionados a este.
 
-Durante la instalacion del git, le dan a next, dejandolo por defecto a cada una de las opcion.
-
-Una vez terminado la instalacion, para empezar a usar git, se debe de acceder a su terminal bash, mediante el click derecho del mouse, en el le aparecera nuevas opciones relacionados a este.
-
-<<<<<<< HEAD
 ![App Screenshot](/static/screenshots/Abrir_git.jpg)
-=======
-![App Screenshot](https://drive.google.com/file/d/1ZDGlrXGwfTZTX2mUspM8wjS1tV5opqz-/view?usp=sharing)
->>>>>>> f2fc5748f5aa46cb67de9ce5b3c4650bc923c9f3
 
 **Ahora en visual studio es posible utilizar la terminal Bash**
 
@@ -81,8 +73,8 @@ Este comando cumple varios propósitos - lo usas para empezar a añadir archivos
 Este comando puede ir añadiendo archivos por archivos, o completamente todo el listados que se muestra con el comando $ git status.
 
 ```bash
-  $ git **add** [nombre archivo/carpeta]
-  $ git **add** . (añade todo los archivos)
+  $ git add [nombre archivo/carpeta]
+  $ git add . (añade todo los archivos)
 ```
 
 ### Confirmar Cambios
