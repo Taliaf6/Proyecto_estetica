@@ -29,7 +29,7 @@ Durante la instalacion del git, le dan a next, dejandolo por defecto a cada una 
 
 Una vez terminado la instalacion, para empezar a usar git, se debe de acceder a su terminal bash, mediante el click derecho del mouse, en el le aparecera nuevas opciones relacionados a este.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://drive.google.com/file/d/1ZDGlrXGwfTZTX2mUspM8wjS1tV5opqz-/view?usp=sharing)
 
 **Ahora en visual studio es posible utilizar la terminal Bash**
 
